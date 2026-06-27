@@ -39,6 +39,9 @@ The session covered concepts such as:
 
 This discussion made me realize that every Python program is more than just lines of code—it is a collection of objects being created, stored, referenced, and managed in memory.
 
+### Process and Memory Diagram
+
+![Process and Memory Diagram](../images/day2/process-memory.png)
 ---
 
 # 🏗️ MVC Architecture – A Practical Perspective
