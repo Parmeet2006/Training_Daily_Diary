@@ -1,71 +1,80 @@
-# 📅 Day 1 - Beginning the Journey into Agentic AI with Python
+# 📘 Agentic AI with Python – Daily Training Diary
 
-**📍 Date:** 25 June 2025
-**🏢 Organization:** Auribises Technologies, Ludhiana
-**👨‍🏫 Mentor:** Ishant Sharma (Director, Auribises Technologies)
+Welcome to my **daily learning diary** for the **6-week Agentic AI with Python** training conducted by **Auribises Technologies, Ludhiana**.
 
----
-
-## 🌟 Overview
-
-Today marked the beginning of my **6-week Agentic AI with Python** training at **Auribises Technologies**. The first session focused on understanding the training roadmap, getting familiar with the organization, and building a strong foundation before diving into technical concepts.
-
-Rather than immediately writing code, the session emphasized understanding the purpose of the training and the technologies that will be explored throughout the coming weeks.
+This repository serves as a record of my learning journey, where I document daily concepts, practical implementations, code snippets, assignments, and personal reflections. It showcases my growth and understanding of **Python**, **Agentic AI**, and related technologies throughout the training.
 
 ---
 
-## 📚 Topics Covered
+## 🎯 Training Details
 
-### 👨‍🏫 Introduction to the Mentor
-
-The session began with an introduction by **Mr. Ishant Sharma**, Director of Auribises Technologies. He shared his professional journey, discussed the rapidly evolving field of Artificial Intelligence, and explained how practical learning and consistent experimentation are essential for becoming a skilled developer.
-
----
-
-### 🏢 Introduction to Auribises Technologies
-
-An overview of **Auribises Technologies** was presented, highlighting the company's focus on software development, Artificial Intelligence, Machine Learning, and industry-oriented training programs. We were introduced to the learning methodology that combines theoretical understanding with hands-on implementation.
+| **Attribute**       | **Details**                                      |
+| :------------------ | :----------------------------------------------- |
+| 📖 **Course**       | Agentic AI with Python                           |
+| ⏳ **Duration**      | 6 Weeks                                          |
+| 🏢 **Organization** | Auribises Technologies, Ludhiana                 |
+| 👨‍🏫 **Mentor**    | Ishant Sharma (Director, Auribises Technologies) |
+| 📅 **Start Date**   | 25 June 2025                                     |
 
 ---
 
-### 🐍 Introduction to Python
+## 📚 What You'll Find Here
 
-The basics of **Python** were introduced, along with the reasons why it is one of the most widely used programming languages in Artificial Intelligence and Data Science.
-
-Key points discussed:
-
-* Why Python is beginner-friendly
-* Features and advantages of Python
-* Applications of Python in AI, Machine Learning, Automation, and Web Development
-* Importance of writing clean and readable code
+* 📝 Daily learning notes and summaries
+* 💻 Python code examples and exercises
+* 🤖 Agentic AI concepts and implementations
+* 🛠️ Practical assignments and hands-on activities
+* 🚀 Mini-projects developed during the training
+* 💡 Key insights, learnings, and takeaways
 
 ---
 
-### 🏗️ Model-View-Controller (MVC)
+## 📅 Daily Progress
 
-The concept of the **Model-View-Controller (MVC)** architecture was introduced.
-
-I learned how software applications can be organized into three separate components:
-
-* **Model:** Manages the application's data and business logic.
-* **View:** Responsible for displaying information to the user.
-* **Controller:** Acts as the bridge between the Model and the View by processing user input and controlling the application's workflow.
-
-Understanding MVC provided insight into how large applications remain organized, scalable, and easier to maintain.
+| Day |     Date     | Topics Covered                                | Status |
+| :-: | :----------: | :-------------------------------------------- | :----: |
+|  01 | 25 June 2025 | Introduction, Python Basics, MVC Architecture |    ✅   |
+|  02 | 26 June 2025 | *Coming Soon*                                 |    ⏳   |
+|  03 | 27 June 2025 | *Coming Soon*                                 |    ⏳   |
 
 ---
 
-## 💡 Key Learnings
+## 🎯 Goal
 
-* Every successful AI application starts with strong programming fundamentals.
-* Python's simplicity and versatility make it an ideal language for AI development.
-* Software architecture plays a crucial role in developing scalable applications.
-* Understanding concepts before implementation leads to better problem-solving skills.
+The primary objective of this repository is to:
+
+* Build consistency through daily documentation.
+* Reinforce learning by summarizing concepts in my own words.
+* Maintain a portfolio of practical work completed during the training.
+* Track my progress throughout the six-week journey.
+* Share my learning experience with fellow developers and AI enthusiasts.
 
 ---
 
-## 🚀 Reflection
+## 🌱 Learning Philosophy
 
-The first day laid a solid foundation for the weeks ahead. Although the session was primarily introductory, it helped me understand the overall direction of the training and the importance of mastering core concepts before building intelligent AI agents. I am excited to continue this journey and explore the practical side of Agentic AI through Python.
+> *"The best way to learn is to build, document, reflect, and improve every single day."*
 
-**Learning Progress:** █░░░░░░░░░ **Week 1 - Day 1 Completed** ✅
+Every commit in this repository represents another step toward becoming a better Python developer and AI engineer.
+
+---
+
+## 📌 Repository Structure
+
+```text
+📦 Agentic-AI-With-Python
+│
+├── Day-01/
+├── Day-02/
+├── Day-03/
+├── Assignments/
+├── Projects/
+├── Notes/
+└── README.md
+```
+
+---
+
+## 🚀 Let's Build the Future with AI!
+
+Thank you for visiting this repository. Feel free to explore my daily progress and follow along as I continue learning and building with **Agentic AI** and **Python**.
