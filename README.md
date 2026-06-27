@@ -34,7 +34,7 @@ This repository serves as a record of my learning journey, where I document dail
 | Day |     Date     | Topics Covered                                | Status |
 | :-: | :----------: | :-------------------------------------------- | :----: |
 |  01 | 25 June 2025 | Introduction, Python Basics, MVC Architecture |    ✅   |
-|  02 | 26 June 2025 | *Coming Soon*                                 |    ⏳   |
+|  02 | 26 June 2025 |  Understanding Python Memory & MVC            |    ✅   |
 |  03 | 27 June 2025 | *Coming Soon*                                 |    ⏳   |
 
 ---
