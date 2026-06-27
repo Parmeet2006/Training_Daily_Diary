@@ -64,10 +64,12 @@ Every commit in this repository represents another step toward becoming a better
 ```text
 📦 Agentic-AI-With-Python
 │
-├── Day-01/
-├── Day-02/
-├── Day-03/
-├── Assignments/
+├── Week-01/
+├── Week-02/
+├── Week-03/
+├── Week-04/
+├── Week-05/
+├── Week-06/
 ├── Projects/
 ├── Notes/
 └── README.md
