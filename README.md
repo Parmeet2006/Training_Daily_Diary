@@ -11,7 +11,7 @@ This repository serves as a record of my learning journey, where I document dail
 | **Attribute**       | **Details**                                      |
 | :------------------ | :----------------------------------------------- |
 | 📖 **Course**       | Agentic AI with Python                           |
-| ⏳ **Duration**      | 6 Weeks                                          |
+| ⏳ **Duration**      | 4 Weeks                                          |
 | 🏢 **Organization** | Auribises Technologies, Ludhiana                 |
 | 👨‍🏫 **Mentor**    | Ishant Sharma (Director, Auribises Technologies) |
 | 📅 **Start Date**   | 25 June 2025                                     |
@@ -29,16 +29,6 @@ This repository serves as a record of my learning journey, where I document dail
 
 ---
 
-## 📅 Daily Progress
-
-| Day |     Date     | Topics Covered                                | Status |
-| :-: | :----------: | :-------------------------------------------- | :----: |
-|  01 | 25 June 2025 | Introduction, Python Basics, MVC Architecture |    ✅   |
-|  02 | 26 June 2025 |  Understanding Python Memory & MVC            |    ✅   |
-|  03 | 27 June 2025 | *Coming Soon*                                 |    ⏳   |
-
----
-
 ## 🎯 Goal
 
 The primary objective of this repository is to:
@@ -53,7 +43,7 @@ The primary objective of this repository is to:
 
 ## 🌱 Learning Philosophy
 
-> *"The best way to learn is to build, document, reflect, and improve every single day."*
+*"The best way to learn is to build, document, reflect, and improve every single day."*
 
 Every commit in this repository represents another step toward becoming a better Python developer and AI engineer.
 
