@@ -58,10 +58,6 @@ Every commit in this repository represents another step toward becoming a better
 ├── Week-02/
 ├── Week-03/
 ├── Week-04/
-├── Week-05/
-├── Week-06/
-├── Projects/
-├── Notes/
 └── README.md
 ```
 
